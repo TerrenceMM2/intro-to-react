@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Intro-to-React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Intro to React: Illustration Application and Modules
 
-## Available Scripts
+## Summary
 
-In the project directory, you can run:
+This repo is a supplemental, illustrative aid to the Intro to React slide deck. The following topics are covered as independent modules (React components):
 
-### `npm start`
+1. JSX
+2. State & Props
+3. Functional vs Class Components
+4. HTML & CSS in React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Resources
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [A short intro to React.js by Merdan Durdiyev (dev.to)](https://dev.to/eminarium/a-short-intro-to-react-js-aed)
+- [W3Schools - React Tutorial](https://www.w3schools.com/react/default.asp)
+- [The Missing Introduction to React by Eric Elliott (medium.com)](https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76)
+- [GeeksforGeeks - React JS (Introduction and Working)](https://www.geeksforgeeks.org/react-js-introduction-working/)
+- [React for Beginners - A React.js Handbook for Front End Developers by Flavio Copes (freecodecamp.org)](https://www.freecodecamp.org/news/react-beginner-handbook/)
+- [Why You Should Use React.js For Web Development by Suraj Surve (freecodecamp.org)](https://www.freecodecamp.org/news/why-use-react-for-web-development/)
+- [The Best Guide to Know What is React by Chinmayee Deshpande (simplilearn.com)](https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs#why_react)
+- [Understanding Functional Components vs. Class Components in React by Shiori Yamazaki (twilio.com)](https://www.twilio.com/blog/react-choose-functional-components)
 
-### `npm test`
+### Correction/Suggestion Submissions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repo.
+2. Create a new local branch.
+3. Make edits.
+4. Add, commit, push to GitHub.
+5. Create a PR with a detailed explanation for requested changes.
 
-### `npm run build`
+### Author
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Email: [terrencemm2@gmail.com](mailto:terrencemm2@gmail.com)
+- Portfolio: [terrence.codes](https://terrence.codes)
+- [LinkedIn](https://www.linkedin.com/in/terrencemahnken/)
+- [Twitter](https://twitter.com/TerrenceMahnken)
+- [Medium](https://medium.com/@terrencemm2)
