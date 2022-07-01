@@ -1,6 +1,7 @@
 # Intro-to-React
 
 Intro to React: Illustration Application and Modules
+Last Updated: April 1, 2022
 
 ## Summary
 
